@@ -1,6 +1,6 @@
 # MicroISP
 
-Link: https://github.com/YuuuuuuuuuuuuuuHC/COMP-7404/edit/main
+Link: https://github.com/YuuuuuuuuuuuuuuHC/COMP-7404
 
 ## Introduction
 
